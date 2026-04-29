@@ -9,3 +9,5 @@ To properly navigate through the notebooks please first read 'Introduction', the
 Any references/tools used are included at the bottom of each notebook.
 
 The project file itself is held in the 'Project' folder and is named 'MedievalFontStyle.tff'.
+
+All images are either self-taken or free to use.
